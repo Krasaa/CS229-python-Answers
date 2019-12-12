@@ -1,4 +1,4 @@
 # Answers-of-CS229-python
-Answers!  The problem part is based on https://github.com/dibgerge/ml-coursera-python-assignments
+Answers! 
 
-The code may be not so neat, that's a to-do task.
+The soce of this project is Avg.100.
