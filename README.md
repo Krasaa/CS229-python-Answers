@@ -1,4 +1,4 @@
-# Answers-of-CS229-python
+# Answer-for-CS229-python
 Answers! 
 
-The soce of this project is Avg.100.
+Grades: 100/100
